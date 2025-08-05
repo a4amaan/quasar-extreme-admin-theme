@@ -100,6 +100,12 @@ Point of Sale (POS) Screen
 
 ![Dashboard](images/pos_v2.png)
 
+Post Creation
+![CRM](images/2-create-post.png)
+
+Post Listing
+![CRM](images/1-posts.png)
+
 Product List
 ![CRM](images/product_list.png)
 
