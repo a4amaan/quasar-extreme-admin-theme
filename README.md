@@ -98,9 +98,13 @@ Point of Sale (POS) Screen
 
 ![Dashboard](images/pos.png)
 
-2. CRM
+2. Product List
 
-![CRM](images/CRM.png)
+![CRM](images/product_list.png)
+
+2. Product Setup
+
+![CRM](images/product_setup.png)
 
 3. Ecommerce
 
