@@ -17,8 +17,6 @@ customizable admin dashboards.
     <img src="images/PageSpeedInsights.png" alt="Githelp" width="500" style="border-radius: 12px"/>
 </p>
 
-## Now also available for TypeScript and script setup! 🚀🚀
-
 ## Now also supports Vite 5 and 6
 
 ### Doc - https://ui.tecbricks.com/
@@ -90,48 +88,41 @@ enhancements, improvements, and new features, ensuring your admin dashboard rema
 
 # Screenshots
 
-1. Dashboard
+Dashboard
 
 ![Dashboard](images/dashboard.png)
 
 Point of Sale (POS) Screen
 
-![Dashboard](images/pos.png)
+![Point of Sale](images/pos.png)
 
 Point of Sale (POS) Screen
 
 ![Dashboard](images/pos_v2.png)
 
-2. Product List
-
+Product List
 ![CRM](images/product_list.png)
 
-2. Product Setup
-
+Product Setup
 ![CRM](images/product_setup.png)
 
-3. Ecommerce
+Login
+![Login](images/login.png)
 
-![Ecommerce](images/ECommerce.png)
-
-4. Inventory Transfer
+Inventory Transfer
 
 ![Email](images/inventory_transfer.png)
 
-4. Inventory Adjustment
-
+Inventory Adjustment
 ![Email](images/inventory_adjustment.png)
 
-5. Dialoge Form
-
+Dialoge Form
 ![Dialoge Form](images/dialoge_form.png)
 
-5. Right Drawer Form
-
+Right Drawer Form
 ![Right Drawer Form](images/right_drawer_form.png)
 
-5. Multi Level Draggable Tree Component
-
+Multi Level Draggable Tree Component
 ![Right Drawer Form](images/multilevel_dragable_tree.png)
 
 # Changelog
