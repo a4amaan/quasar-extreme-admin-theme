@@ -98,6 +98,10 @@ Point of Sale (POS) Screen
 
 ![Dashboard](images/pos.png)
 
+Point of Sale (POS) Screen
+
+![Dashboard](images/pos_v2.png)
+
 2. Product List
 
 ![CRM](images/product_list.png)
@@ -110,13 +114,25 @@ Point of Sale (POS) Screen
 
 ![Ecommerce](images/ECommerce.png)
 
-4. Email
+4. Inventory Transfer
 
-![Email](images/Mail.png)
+![Email](images/inventory_transfer.png)
 
-5. Profile
+4. Inventory Adjustment
 
-![Profile](images/Profile.png)
+![Email](images/inventory_adjustment.png)
+
+5. Dialoge Form
+
+![Dialoge Form](images/dialoge_form.png)
+
+5. Right Drawer Form
+
+![Right Drawer Form](images/right_drawer_form.png)
+
+5. Multi Level Draggable Tree Component
+
+![Right Drawer Form](images/multilevel_dragable_tree.png)
 
 # Changelog
 
