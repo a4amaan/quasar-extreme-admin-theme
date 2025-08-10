@@ -1,6 +1,4 @@
-# Quasar Extreme Admin Template
-
-## Proudly serving over 2+ happy customers and counting! 🚀🚀🚀
+# Quasar Extreme Admin Template by Tecbricks.com
 
 [![SonarQube](images/quality_gate.svg)](https://www.sonarsource.com/products/sonarqube/)
 
@@ -25,7 +23,7 @@ customizable admin dashboards.
 
 ### Ready to Elevate Your Development Experience?
 
-If you're looking to build elegant internal tools or dashboards for your organization, head over to my [Sponsorship Page](https://ui.tecbricks.com) and unlock the full potential of the **Quasar Extreme Admin Template**.
+If you're looking to build elegant internal tools or dashboards for your organization, head over to my [Sponsorship Page](https://khansays.com/post/quasar-vue-3-extreme-admin-theme) and unlock the full potential of the **Quasar Extreme Admin Template**.
 
 A **one-time sponsorship of <strike>$549</strike> $249** grants you **Standard License** access — perfect for **internal use only** (non-commercial or commercial within your organization).
 
@@ -35,7 +33,7 @@ A **one-time sponsorship of <strike>$549</strike> $249** grants you **Standard L
 
 ### Ready to Elevate Your Development Experience?
 
-Want to use the Quasar Extreme Admin Template in **SaaS, client projects, or commercial products**? Head over to my [Sponsorship Page](https://ui.tecbricks.com) and gain full access with the **Extended License**.
+Want to use the Quasar Extreme Admin Template in **SaaS, client projects, or commercial products**? Head over to my [Sponsorship Page](https://tecbricks.com/quasar-vue-3-extreme-admin-theme) and gain full access with the **Extended License**.
 
 A **one-time sponsorship of <strike>$1999</strike> $1499** gives you the rights to use the template in **redistributable commercial projects** (with significant modifications).
 
@@ -115,6 +113,16 @@ Product Setup
 Login
 ![Login](images/login.png)
 
+Login Simple
+![Login Simple](images/login_simple.png)
+
+Login With Card
+![Login With Card](images/login_card.png)
+
+Invoice Create Screen
+
+![Invoice Create Screen](images/invoice_create.png)
+
 Inventory Transfer
 
 ![Email](images/inventory_transfer.png)
@@ -131,6 +139,8 @@ Right Drawer Form
 Multi Level Draggable Tree Component
 ![Right Drawer Form](images/multilevel_dragable_tree.png)
 
+Calander Component
+![Calander](images/calander.png)
 # Changelog
 
 #### 21.04.2025
